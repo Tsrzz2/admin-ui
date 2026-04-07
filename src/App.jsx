@@ -57,7 +57,7 @@ function App() {
                     className="w-12 h-12 rounded-full object-cover"
                   />
                   <div>
-                    <p className="text-sm font-medium">Author's Name</p>
+                    <p className="text-sm font-medium">Sigit Ilham</p>
                     <p className="text-xs text-gray-500">Designer</p>
                   </div>
                 </div>
